@@ -1,2 +1,5 @@
-server：
-  port: 80
+server:
+  port: 3344
+spring:
+  application:
+    name: cloud-config-center
