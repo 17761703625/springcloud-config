@@ -4,4 +4,4 @@ spring:
   application:
     name: cloud-config-center
 config:
-  info: springcloud-config config-dev.ymlversion1.0.0
+  info: 1.0.0
